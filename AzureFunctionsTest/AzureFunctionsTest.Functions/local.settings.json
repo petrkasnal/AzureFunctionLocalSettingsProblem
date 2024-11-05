@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "ServiceBusConnection__fullyQualifiedNamespace": ""
+  },
+  "ConnectionStrings": {
+    "Messaging": "",
+    "Messaging2": "",
+    "Messaging3": "",
+    "Messaging4": "",
+    "Messaging5": "",
+    "Messaging6": ""
+  }
+}
